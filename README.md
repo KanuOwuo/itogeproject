@@ -27,4 +27,4 @@ Book Tracker — простое GUI‑приложение для учёта п�
 2. Откройте терминал или командную строку.
 3. Перейдите в папку с файлом:
    ```bash
-   cd https://github.com/KanuOwuo/itogeproject.git
+   cd https://github.com/KanuOwuo/project.git
