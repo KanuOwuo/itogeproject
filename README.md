@@ -26,5 +26,4 @@ Book Tracker — простое GUI‑приложение для учёта п�
 1. Сохраните код приложения в файл `book_tracker.py`.
 2. Откройте терминал или командную строку.
 3. Перейдите в папку с файлом:
-   ```bash
-   https://github.com/KanuOwuo/project.git
+    https://github.com/KanuOwuo/project.git
